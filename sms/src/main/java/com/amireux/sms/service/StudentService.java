@@ -14,4 +14,7 @@ public interface StudentService {
 
     //添加学生
     void add(Student student);
+
+    //删除学生
+    void deleteById(Integer id);
 }

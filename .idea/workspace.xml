@@ -4,7 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="743c5b07-08d3-432c-8376-13dee22e5e40" name="Default Changelist" comment="" />
+    <list default="true" id="743c5b07-08d3-432c-8376-13dee22e5e40" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/sms/src/main/java/com/amireux/sms/controller/ClassRoomController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sms/src/main/java/com/amireux/sms/mapper/ClassRoomMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sms/src/main/java/com/amireux/sms/pojo/ClassRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sms/src/main/java/com/amireux/sms/service/ClassRoomService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sms/src/main/java/com/amireux/sms/service/impl/ClassRoomServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sms/src/main/resources/com/amireux/sms/mapper/ClassRoomMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sms/src/main/java/com/amireux/sms/controller/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/sms/src/main/java/com/amireux/sms/controller/StudentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sms/src/main/java/com/amireux/sms/mapper/StudentMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/sms/src/main/java/com/amireux/sms/mapper/StudentMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sms/src/main/java/com/amireux/sms/service/StudentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/sms/src/main/java/com/amireux/sms/service/StudentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sms/src/main/java/com/amireux/sms/service/impl/StudentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/sms/src/main/java/com/amireux/sms/service/impl/StudentServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sms/src/main/resources/com/amireux/sms/mapper/StudentMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sms/src/main/resources/com/amireux/sms/mapper/StudentMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sms/target/classes/com/amireux/sms/controller/StudentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/sms/target/classes/com/amireux/sms/controller/StudentController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sms/target/classes/com/amireux/sms/mapper/StudentMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/sms/target/classes/com/amireux/sms/mapper/StudentMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sms/target/classes/com/amireux/sms/mapper/StudentMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sms/target/classes/com/amireux/sms/mapper/StudentMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sms/target/classes/com/amireux/sms/service/StudentService.class" beforeDir="false" afterPath="$PROJECT_DIR$/sms/target/classes/com/amireux/sms/service/StudentService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sms/target/classes/com/amireux/sms/service/impl/StudentServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/sms/target/classes/com/amireux/sms/service/impl/StudentServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/接口文档.md" beforeDir="false" afterPath="$PROJECT_DIR$/接口文档.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1702459958355</updated>
       <workItem from="1702459961925" duration="23000" />
+      <workItem from="1702524524444" duration="25000" />
     </task>
     <servers />
   </component>

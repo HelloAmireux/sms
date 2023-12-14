@@ -27,4 +27,8 @@
         INSERT INTO Student (id,class_id, student_name, photoURL)
          VALUES (#{id}, #{classId},#{studentName}, #{photoURL});
     </insert>
+
+    <delete id="deleteById">
+        delete from student where id=#{id}
+    </delete>
 </mapper>

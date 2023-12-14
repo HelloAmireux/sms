@@ -17,4 +17,7 @@ public interface StudentMapper {
 
     //添加学生信息
     void add(Student student);
+
+    //删除学生
+    void deleteById(Integer id);
 }

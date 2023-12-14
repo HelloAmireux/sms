@@ -28,4 +28,10 @@ public class StudentServiceImpl implements StudentService {
     public void add(Student student) {
         studentMapper.add(student);
     }
+
+    //删除学生
+    @Override
+    public void deleteById(Integer id) {
+        studentMapper.deleteById(id);
+    }
 }

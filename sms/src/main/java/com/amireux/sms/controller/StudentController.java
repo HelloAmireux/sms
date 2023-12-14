@@ -36,5 +36,11 @@ public class StudentController {
         return Result.success();
     }
 
+    //删除学生
+    @DeleteMapping("/delete")
+    public Result delete(Integer id){
+        studentService.deleteById(id);
+        return Result.success();
+    }
 
 }
